@@ -1,0 +1,13 @@
+neotool3 - License
+
+neotool3 is freeware. Copyright (c) 2025-2026 Willi Baecker. All rights reserved.
+
+- You may use neotool3 free of charge for any purpose, including commercial
+  projects. The ROMs and files you create with it belong to you.
+- You may pass on the unchanged program together with this README.
+- You may not sell neotool3, modify it, decompile it or distribute it as part
+  of another tool without permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
