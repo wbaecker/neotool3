@@ -5,7 +5,7 @@ into sprite (C-ROM) and fix layer (S-ROM) tiles, writes maps and palettes as
 assembler source, packs all graphics of a game into finished ROM files and
 creates a MAME software list with checksums.
 
-neotool3 was written for the Neo Geo game **NEUTRALIZER II** and is used for
+neotool3 was written for my Neo Geo games and is used for
 its complete build. Every format it writes has been checked byte by byte
 against what MAME expects.
 
