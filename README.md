@@ -10,7 +10,7 @@ its complete build. Every format it writes has been checked byte by byte
 against what MAME expects.
 
 - Author: Willi Baecker
-- Platform: Windows (console program, written in PureBasic)
+- Platform: Windows (console program)
 - Version: see `neotool3 -ver`
 - Download: [Releases](https://github.com/wbaecker/neotool3/releases)
 
